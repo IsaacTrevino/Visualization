@@ -1,5 +1,5 @@
 # Visualization
-visualization work done during graduate degree<br/><br/>
+Work done during graduate degree<br/><br/>
 
 Some additional visualization content <br/>
 onedrive:<br/><br/>
